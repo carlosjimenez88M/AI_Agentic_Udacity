@@ -99,11 +99,15 @@ langgraph.sqlite
 
 
 *.pckl
-*.env
-*.json
 *.j2
-*.sqlite
-*.db
 *.pem
 *.crt
 *.map
+
+# JSON outputs (NOT config files like langgraph.json or package.json)
+*_output.json
+*_result.json
+*_response.json
+test_*.json
+output_*.json
+result_*.json
