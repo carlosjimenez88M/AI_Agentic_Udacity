@@ -1,0 +1,25 @@
+# Travel plan outputs
+travel_plan*.json
+itinerary*.json
+plan_*.json
+
+# Test outputs and logs
+test_*.py
+test_output*.log
+itinerary_test*.log
+*_output.log
+
+# Temporary fixes and scripts
+fix_*.py
+remove_*.py
+clean_*.py
+
+# Backup files
+*.backup
+*_backup.ipynb
+project_starter*.ipynb.backup
+
+# Generated documentation (temporary)
+PROYECTO_*.md
+EJECUCION_*.md
+README_NEW.md

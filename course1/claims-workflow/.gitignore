@@ -1,0 +1,14 @@
+# LangGraph state and database
+.langgraph/
+langgraph.sqlite
+*.sqlite
+*.db
+
+# Test outputs
+test_*.py
+*_output.log
+*.log
+
+# Workflow outputs
+workflow_output*.json
+claim_results*.json

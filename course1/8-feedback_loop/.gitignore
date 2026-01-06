@@ -1,0 +1,13 @@
+# Generated code from LLM
+generated_*.py
+fixed_*.py
+improved_*.py
+
+# Test outputs
+test_output*.log
+feedback_*.log
+evaluation_*.json
+
+# Iteration outputs
+iteration_*.py
+version_*.py

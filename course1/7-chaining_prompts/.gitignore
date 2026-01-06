@@ -1,0 +1,11 @@
+# Script outputs
+news_output*.json
+chain_output*.log
+*_results.json
+
+# Generated data
+articles_*.json
+summaries_*.txt
+
+# Test files
+test_*.py
