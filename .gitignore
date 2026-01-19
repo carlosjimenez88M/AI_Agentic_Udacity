@@ -85,6 +85,11 @@ fix_notebook*.py
 test_itinerary*.py
 remove_emojis*.py
 
+# Course 2 - Workflow outputs (keep only final clean versions)
+course2-workflows/project/starter/phase_2/workflow_output.txt
+course2-workflows/project/starter/phase_2/workflow_output_*.txt
+course2-workflows/project/starter/phase_2/workflow_simplified.txt
+
 # LangGraph
 .langgraph/
 langgraph.sqlite
@@ -111,3 +116,13 @@ langgraph.sqlite
 test_*.json
 output_*.json
 result_*.json
+.claude/
+*.claude
+*.claude
+*.claude
+*.claude
+*.claude
+*.claude
+*.ENV
+*.env
+*.env
